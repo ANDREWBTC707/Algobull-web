@@ -1,0 +1,15 @@
+{
+  "short_name": "Mint ALGOBULL",
+  "name": "Mint ALGOBULL",
+  "icons": [
+    {
+      "src": "favicon.jpeg",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
