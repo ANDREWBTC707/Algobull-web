@@ -13,6 +13,12 @@ export const config = {
     stablecoinAddress: "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
     scanURL: "https://testnet.bscscan.com/",
   },
+  56: {
+    name: "BinanceSmartChainMainnet",
+    algoBullAddress: "<fill this out>",
+    stablecoinAddress: "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    scanURL: "https://bscscan.com/",
+  },
 };
 
 export const networks = () => {
