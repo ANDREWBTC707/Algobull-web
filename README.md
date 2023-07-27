@@ -24,3 +24,7 @@ A web front-end for supporting interactions with the [AlgoBull contract](https:/
 elm-app start
 ```
 
+## After Deploying to Mainnet
+
+After deploying to mainnet, update [chainConfig](https://github.com/ANDREWBTC707/Algobull-web/blob/main/src/chainConfig.js#L16) set the  `algoBullAddress` to the recently deployed contract in the `BinanceSmartChainMainnet` object.
+
