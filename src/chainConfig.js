@@ -15,7 +15,7 @@ export const config = {
   },
   56: {
     name: "BinanceSmartChainMainnet",
-    algoBullAddress: "<fill this out>",
+    algoBullAddress: "0x344b011c68237D2db56734ef0B79BFBa6D842BF9",
     stablecoinAddress: "0xe9e7cea3dedca5984780bafc599bd69add087d56",
     scanURL: "https://bscscan.com/",
   },
